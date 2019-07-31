@@ -1,0 +1,51 @@
+
+img {
+	max-width: 200px;
+    max-height: 250px;
+ 
+}
+
+label  {
+    
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+
+.button {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    padding: 3px;
+  }
+  
+  .button:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+body {
+	background-image: url("https://cdn.hipwallpaper.com/i/63/86/L6PkU1.jpg");
+    font-family: 'Bad Script', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.jumbotron {
+    background-image: url("https://images.assetsdelivery.com/compings_v2/romastudio/romastudio1603/romastudio160300280.jpg");
+    text-align: center;
+}
+
+#right{
+    float: right;
+    background-color:lightsalmon;
+}
+
+
+h1{
+    background-color:lightsalmon;
+
+}
