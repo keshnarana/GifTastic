@@ -1,2 +1,3 @@
 # GifTastic
-https://keshnarana.github.io/GifTastic/
+https://keshnarana.github.io/GifTastic
+
