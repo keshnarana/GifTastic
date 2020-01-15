@@ -8,4 +8,5 @@ Technologies used : GIPHY API , JavaScript and jQuery
 1. type a name of a fruit
 ![](Screenshot%20(53).png)
 <br>
+2. Click on the fruit name to show their gifs
 ![](Screenshot%20(54).png)
